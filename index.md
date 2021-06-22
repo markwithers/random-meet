@@ -6,4 +6,8 @@ Drag the link below to your bookmarks bar
 
 Then in a Google Meet, simply click the bookmark and a randomised participant list will be automatically pasted to chat. This is great for doing **stand-ups and retros** in a random order to keep things fresh.
 
-For large meetings, make sure your layout is *tiled* and you have the maximum of 49 participants visible. This randomiser does not work for meetings with more than 49 people.
+**Important Notes**
+
+ - For large meetings, make sure your layout is *tiled* and you have the maximum of 49 participants visible. This randomiser does not work for meetings with more than 49 people.
+
+ - Your tile must be displayed. If it isn't, please press the 'Show in a Tile' button
